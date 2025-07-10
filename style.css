@@ -1,7 +1,11 @@
 .form{
     background-color: blueviolet;
     text-align: center;
-    color: wheat;
+    color: white;
+    border-radius: 20px;
+    padding: 1.5rem;
+    opacity: 0.9;
+    border: 2px solid dodgerblue;
 }
 .form h1{
     color: white;
